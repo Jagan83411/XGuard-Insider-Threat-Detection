@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Machine learning models
+*.pkl
+*.joblib
+
+# Data files
+*.csv
+*.xlsx
+
+# Environment
+.env
+venv/
+env/
+
+# Streamlit cache
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
