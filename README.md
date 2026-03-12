@@ -19,4 +19,5 @@ XGuard is an AI-powered cybersecurity tool that detects potential insider threat
 ## Run Project
 
 pip install -r requirements.txt
+
 streamlit run dashboard.py
