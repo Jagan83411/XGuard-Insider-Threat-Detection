@@ -5,20 +5,16 @@ __pycache__/
 
 # Machine learning models
 *.pkl
-*.joblib
 
 # Data files
 *.csv
-*.xlsx
+
+# Reports
+*.pdf
+
+# VSCode
+.vscode/
 
 # Environment
-.env
 venv/
 env/
-
-# Streamlit cache
-.streamlit/
-
-# OS files
-.DS_Store
-Thumbs.db
